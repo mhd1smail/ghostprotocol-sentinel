@@ -1,0 +1,80 @@
+Oct 15 00:01:03 prodserver sshd[4821]: Failed password for root from 45.33.32.156 port 54312 ssh2
+Oct 15 00:01:07 prodserver sshd[4822]: Failed password for root from 45.33.32.156 port 54313 ssh2
+Oct 15 00:01:11 prodserver sshd[4823]: Failed password for root from 45.33.32.156 port 54314 ssh2
+Oct 15 00:01:15 prodserver sshd[4824]: Failed password for root from 45.33.32.156 port 54315 ssh2
+Oct 15 00:01:19 prodserver sshd[4825]: Failed password for root from 45.33.32.156 port 54316 ssh2
+Oct 15 00:01:23 prodserver sshd[4826]: Failed password for root from 45.33.32.156 port 54317 ssh2
+Oct 15 00:01:27 prodserver sshd[4827]: Failed password for admin from 45.33.32.156 port 54318 ssh2
+Oct 15 00:01:31 prodserver sshd[4828]: Failed password for admin from 45.33.32.156 port 54319 ssh2
+Oct 15 00:01:35 prodserver sshd[4829]: Failed password for ubuntu from 45.33.32.156 port 54320 ssh2
+Oct 15 00:01:39 prodserver sshd[4830]: Failed password for ubuntu from 45.33.32.156 port 54321 ssh2
+Oct 15 00:02:01 prodserver sshd[4831]: Invalid user deploy from 45.33.32.156 port 54322
+Oct 15 00:02:05 prodserver sshd[4832]: Failed password for invalid user deploy from 45.33.32.156 port 54322 ssh2
+Oct 15 00:02:11 prodserver sshd[4833]: Invalid user git from 45.33.32.156 port 54323
+Oct 15 00:02:15 prodserver sshd[4834]: Failed password for invalid user git from 45.33.32.156 port 54323 ssh2
+Oct 15 00:03:00 prodserver sshd[4835]: Accepted password for devops from 10.0.1.15 port 50210 ssh2
+Oct 15 00:03:01 prodserver sshd[4835]: pam_unix(sshd:session): session opened for user devops by (uid=0)
+Oct 15 00:05:44 prodserver sshd[4850]: Failed password for root from 198.199.101.42 port 44210 ssh2
+Oct 15 00:05:48 prodserver sshd[4851]: Failed password for root from 198.199.101.42 port 44211 ssh2
+Oct 15 00:05:52 prodserver sshd[4852]: Failed password for root from 198.199.101.42 port 44212 ssh2
+Oct 15 00:05:56 prodserver sshd[4853]: Failed password for root from 198.199.101.42 port 44213 ssh2
+Oct 15 00:06:00 prodserver sshd[4854]: Failed password for root from 198.199.101.42 port 44214 ssh2
+Oct 15 00:08:22 prodserver sshd[4860]: Invalid user postgres from 185.220.101.5 port 39100
+Oct 15 00:08:26 prodserver sshd[4861]: Failed password for invalid user postgres from 185.220.101.5 port 39100 ssh2
+Oct 15 00:08:30 prodserver sshd[4862]: Invalid user mysql from 185.220.101.5 port 39101
+Oct 15 00:08:34 prodserver sshd[4863]: Failed password for invalid user mysql from 185.220.101.5 port 39101 ssh2
+Oct 15 00:08:38 prodserver sshd[4864]: Invalid user oracle from 185.220.101.5 port 39102
+Oct 15 00:08:42 prodserver sshd[4865]: Failed password for invalid user oracle from 185.220.101.5 port 39102 ssh2
+Oct 15 00:08:46 prodserver sshd[4866]: Invalid user ftpuser from 185.220.101.5 port 39103
+Oct 15 00:08:50 prodserver sshd[4867]: Failed password for invalid user ftpuser from 185.220.101.5 port 39103 ssh2
+Oct 15 00:08:54 prodserver sshd[4868]: Invalid user test from 185.220.101.5 port 39104
+Oct 15 00:08:58 prodserver sshd[4869]: Failed password for invalid user test from 185.220.101.5 port 39104 ssh2
+Oct 15 00:09:02 prodserver sshd[4870]: Invalid user pi from 185.220.101.5 port 39105
+Oct 15 00:09:06 prodserver sshd[4871]: Failed password for invalid user pi from 185.220.101.5 port 39105 ssh2
+Oct 15 00:10:15 prodserver sshd[4880]: Accepted publickey for alice from 192.168.0.22 port 51200 ssh2: RSA SHA256:abc123xyz
+Oct 15 00:10:16 prodserver sshd[4880]: pam_unix(sshd:session): session opened for user alice by (uid=1001)
+Oct 15 00:11:00 prodserver sshd[4890]: Failed password for root from 91.229.77.13 port 60011 ssh2
+Oct 15 00:11:04 prodserver sshd[4891]: Failed password for root from 91.229.77.13 port 60012 ssh2
+Oct 15 00:11:08 prodserver sshd[4892]: Failed password for root from 91.229.77.13 port 60013 ssh2
+Oct 15 00:11:12 prodserver sshd[4893]: Failed password for root from 91.229.77.13 port 60014 ssh2
+Oct 15 00:15:30 prodserver sshd[4900]: Accepted password for bob from 10.0.1.88 port 52300 ssh2
+Oct 15 00:15:31 prodserver sshd[4900]: pam_unix(sshd:session): session opened for user bob by (uid=1002)
+Oct 15 00:17:44 prodserver sshd[4910]: Failed password for root from 45.33.32.156 port 54400 ssh2
+Oct 15 00:17:48 prodserver sshd[4911]: Failed password for root from 45.33.32.156 port 54401 ssh2
+Oct 15 00:17:52 prodserver sshd[4912]: Failed password for root from 45.33.32.156 port 54402 ssh2
+Oct 15 00:20:00 prodserver sshd[4920]: Connection closed by 185.220.101.5 port 39200 [preauth]
+Oct 15 00:20:01 prodserver sshd[4921]: Connection closed by 91.229.77.13 port 60100 [preauth]
+Oct 15 00:22:10 prodserver sshd[4930]: Failed password for root from 222.186.61.44 port 48200 ssh2
+Oct 15 00:22:14 prodserver sshd[4931]: Failed password for admin from 222.186.61.44 port 48201 ssh2
+Oct 15 00:22:18 prodserver sshd[4932]: Failed password for user from 222.186.61.44 port 48202 ssh2
+Oct 15 00:22:22 prodserver sshd[4933]: Failed password for test from 222.186.61.44 port 48203 ssh2
+Oct 15 00:22:26 prodserver sshd[4934]: Failed password for guest from 222.186.61.44 port 48204 ssh2
+Oct 15 00:25:00 prodserver sshd[4940]: Accepted publickey for deploy from 10.0.2.5 port 53000 ssh2: RSA SHA256:def456uvw
+Oct 15 00:25:01 prodserver sshd[4940]: pam_unix(sshd:session): session opened for user deploy by (uid=1005)
+Oct 15 00:28:33 prodserver sshd[4950]: Failed password for root from 45.33.32.156 port 54500 ssh2
+Oct 15 00:28:37 prodserver sshd[4951]: Failed password for root from 45.33.32.156 port 54501 ssh2
+Oct 15 00:28:41 prodserver sshd[4952]: Failed password for root from 45.33.32.156 port 54502 ssh2
+Oct 15 00:28:45 prodserver sshd[4953]: Failed password for root from 45.33.32.156 port 54503 ssh2
+Oct 15 00:30:05 prodserver sshd[4960]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=198.199.101.42 user=root
+Oct 15 00:30:09 prodserver sshd[4961]: Failed password for root from 198.199.101.42 port 44300 ssh2
+Oct 15 00:30:13 prodserver sshd[4962]: Failed password for root from 198.199.101.42 port 44301 ssh2
+Oct 15 00:33:00 prodserver sshd[4970]: Accepted password for charlie from 192.168.0.55 port 51900 ssh2
+Oct 15 00:33:01 prodserver sshd[4970]: pam_unix(sshd:session): session opened for user charlie by (uid=1003)
+Oct 15 00:35:19 prodserver sshd[4980]: Failed password for root from 91.229.77.13 port 60200 ssh2
+Oct 15 00:35:23 prodserver sshd[4981]: Failed password for root from 91.229.77.13 port 60201 ssh2
+Oct 15 00:35:27 prodserver sshd[4982]: Failed password for root from 91.229.77.13 port 60202 ssh2
+Oct 15 00:40:00 prodserver sshd[4990]: pam_unix(sshd:session): session closed for user devops
+Oct 15 00:42:14 prodserver sshd[5000]: Failed password for root from 222.186.61.44 port 48300 ssh2
+Oct 15 00:42:18 prodserver sshd[5001]: Failed password for admin from 222.186.61.44 port 48301 ssh2
+Oct 15 00:42:22 prodserver sshd[5002]: Failed password for root from 222.186.61.44 port 48302 ssh2
+Oct 15 00:45:00 prodserver sshd[5010]: Accepted publickey for alice from 192.168.0.22 port 51300 ssh2: RSA SHA256:abc123xyz
+Oct 15 00:50:11 prodserver sshd[5020]: Failed password for root from 45.33.32.156 port 54600 ssh2
+Oct 15 00:50:15 prodserver sshd[5021]: Failed password for root from 45.33.32.156 port 54601 ssh2
+Oct 15 00:55:30 prodserver sshd[5030]: Connection closed by 222.186.61.44 port 48400 [preauth]
+Oct 15 01:00:00 prodserver sshd[5040]: Accepted password for devops from 10.0.1.15 port 50300 ssh2
+Oct 15 01:00:01 prodserver sshd[5040]: pam_unix(sshd:session): session opened for user devops by (uid=0)
+Oct 15 01:05:44 prodserver sshd[5050]: Failed password for root from 185.220.101.5 port 39200 ssh2
+Oct 15 01:05:48 prodserver sshd[5051]: Failed password for root from 185.220.101.5 port 39201 ssh2
+Oct 15 01:05:52 prodserver sshd[5052]: Failed password for root from 185.220.101.5 port 39202 ssh2
+Oct 15 01:10:00 prodserver sshd[5060]: pam_unix(sshd:session): session closed for user alice
+Oct 15 01:15:00 prodserver sshd[5070]: pam_unix(sshd:session): session closed for user bob
